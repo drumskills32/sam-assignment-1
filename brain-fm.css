@@ -1,0 +1,133 @@
+.section-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.mid-section-1 {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 350px;
+    margin-left: 45px;
+    width: max-content;
+}
+
+.lower-section {
+    display: flex;
+    align-items: flex-start;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    gap: 50px;
+}
+
+#logo {
+    margin-left: 20px;
+    width: 18%;
+}
+
+#button {
+    padding: 10px 20px; 
+    border-radius: 20px;
+    border-color: transparent;
+    background-image: linear-gradient(to right, rgb(255, 183, 49), rgb(255, 128, 0));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 110%;
+    color: white;
+}
+
+#sign-in {
+    color:rgb(213, 210, 210); 
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 115%;
+}
+
+body {
+    background-color: rgb(66, 35, 242);
+}
+
+#h3 {
+    font-size: 225%;
+    align-items: left;
+}
+
+#h2 {
+    font-size: 260%;
+    margin-top: -25px;
+    align-items: left;
+    font-weight: bolder;
+}
+
+#button1 {
+    margin-top: 10px;
+    padding: 20px 65px; 
+    border-radius: 50px;
+    border-color: transparent;
+    background-image: linear-gradient(to right, rgb(255, 183, 49), rgb(255, 128, 0));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 125%;
+    color: white;
+}
+
+#gif1 {
+    display: inline-flex;
+    flex-direction: column;
+    width: 835px;
+    align-items: flex-end;
+    margin-top: -85px;
+    margin-right: 25px;
+}
+
+#description {
+    color: rgb(189, 187, 187);
+    font-size: 125%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -10px;
+    justify-items: left;
+}
+
+#featured {
+    color: rgb(189, 187, 187); 
+    font-size: xx-small; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: left;
+}
+
+#companies {
+color: white;
+align-items: left;
+margin-bottom: 50px;
+width: 80%;
+}
+
+.header {
+    color: white; 
+    font-weight: lighter; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mid-page {
+    color:rgb(213, 210, 210); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    padding: 10%;
+}
+
+#picture2 {
+    padding: 7%;
+}
+
+#link{
+    color: white;
+    font-weight: bold;
+}
+
+.text {
+    width: 500px;
+    font-size: 105%;
+}
